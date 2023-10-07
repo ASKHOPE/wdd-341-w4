@@ -5,7 +5,7 @@
     "description": "Contacts API",
     "version": "1.0.0"
   },
-  "host": "three41wddw2.onrender.com/contacts",
+  "host": "three41wddw2.onrender.com/",
   "basePath": "/",
   "schemes": [
     "http"
