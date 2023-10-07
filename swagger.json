@@ -8,7 +8,7 @@
   "host": "three41wddw2.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/contacts/": {
