@@ -1,0 +1,15 @@
+// LOCALHOST
+###
+GET http://localhost:8080/contacts
+###
+GET http://localhost:8080/contacts/650e9057eda1c94561e08a3e
+###
+GET http://localhost:8080/contacts/650e9064eda1c94561e08a3f
+###
+GET http://localhost:8080/contacts/650e9075eda1c94561e08a40
+###
+GET https://three41wddw2.onrender.com/contacts/650e9057eda1c94561e08a3e
+###
+GET https://three41wddw2.onrender.com/contacts/650e9064eda1c94561e08a3f
+###
+GET https://three41wddw2.onrender.com/contacts/650e9075eda1c94561e08a40
